@@ -1,0 +1,1 @@
+# public-covid-cloud-cli
